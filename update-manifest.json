@@ -1,7 +1,7 @@
 {
-    "version": "2.0.3",
-    "download_url": "https://github.com/firhan-ar/metaboost-update/releases/download/v2.0.3/MetaBoost.v2.0.2.zip",
-    "changelog": "## MetaBoost v2.0.3\n\n### New Features\n- Migrated update system to GitHub Releases\n- Faster and more reliable downloads\n\n### Improvements\n- Better error handling\n- Performance optimizations",
-    "release_date": "2025-01-15",
+    "version": "2.1.0",
+    "download_url": "https://github.com/firhan-ar/metaboost-update/releases/download/v2.1.0/MetaBoost.v2.1.0.zip",
+    "changelog": "## MetaBoost v2.1.0\n\n### New Features\n- Added Groq AI provider with rate limiting support\n- Groq video processing mode\n- Automatic update checking and download\n- Use description as title setting for dynamic title generation\n\n### Improvements\n- Reorganized prompts by service and simplified instructions\n\n### Bug Fixes\n- Fixed Gemini video frame extraction",
+    "release_date": "2025-12-16",
     "file_size": null
 }
