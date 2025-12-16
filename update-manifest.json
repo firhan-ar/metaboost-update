@@ -1,6 +1,6 @@
 {
     "version": "2.0.2",
-    "download_url": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_HERE",
+    "download_url": "https://drive.google.com/uc?export=download&id=1T5WjXoeYM_bvF8gxZmCVxN72goKFZHZU",
     "changelog": "## MetaBoost v2.0.2\n\n### New Features\n- Added auto-update feature\n- Check for updates from Help menu\n- Automatic update notification on startup\n\n### Improvements\n- Better error handling\n- Performance optimizations",
     "release_date": "2025-01-15",
     "file_size": null
