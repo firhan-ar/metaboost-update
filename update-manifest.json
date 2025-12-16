@@ -1,6 +1,6 @@
 {
     "version": "2.0.3",
-    "download_url": "https://github.com/firhan-ar/metaboost-update/releases/download/v2.0.3/MetaBoost_2.0.3.exe",
+    "download_url": "https://github.com/firhan-ar/metaboost-update/releases/download/v2.0.3/MetaBoost.v2.0.2.zip",
     "changelog": "## MetaBoost v2.0.3\n\n### New Features\n- Migrated update system to GitHub Releases\n- Faster and more reliable downloads\n\n### Improvements\n- Better error handling\n- Performance optimizations",
     "release_date": "2025-01-15",
     "file_size": null
