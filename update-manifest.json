@@ -1,7 +1,7 @@
 {
-    "version": "2.1.0",
-    "download_url": "https://github.com/firhan-ar/metaboost-update/releases/download/v2.1.0/MetaBoost_v2.1.0.zip",
-    "changelog": "## MetaBoost v2.1.0\n\n### New Features\n- Added Groq AI provider with rate limiting support\n- Groq video processing mode\n- Automatic update checking and download\n- Use description as title setting for dynamic title generation\n\n### Improvements\n- Reorganized prompts by service and simplified instructions\n\n### Bug Fixes\n- Fixed Gemini video frame extraction",
-    "release_date": "2025-12-16",
-    "file_size": null
+  "version": "2.2.0",
+  "download_url": "https://github.com/firhan-ar/metaboost-update/releases/download/v2.2.0/MetaBoost_v2.2.0.zip",
+  "file_size": null,
+  "release_date": "2025-12-24",
+  "changelog": "## MetaBoost v2.2.0\n\n### New Features\n- OpenRouter API integration with multi-provider support (Google Gemini and OpenAI GPT models)\n- Added Gemini 3 models support (gemini-3-pro-preview, gemini-3-flash-preview) in Gemini provider\n- Added Gemma 3 27B model support in Gemini provider\n- Async lazy loading for thumbnail generation\n\n### Improvements\n- Improved API key selection with hybrid strategy\n- Enhanced rate limiter caching for better performance\n- Increased max output tokens for richer metadata\n\n### Bug Fixes\n- Fix some bugs"
 }
