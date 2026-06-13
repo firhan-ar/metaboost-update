@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "download_url": "https://github.com/firhan-ar/metaboost-update/releases/download/v3.0.0/MetaBoost_v3.0.0.zip",
+  "version": "3.1.0",
+  "download_url": "https://github.com/firhan-ar/metaboost-update/releases/download/v3.1.0/MetaBoost_v3.1.0.zip",
   "file_size": null,
-  "release_date": "2026-06-11",
-  "changelog": "## MetaBoost v3.0.0\n\n### Major Change: Migrasi total pada UI\n- Tampilan lebih modern, responsif, dan premium\n\n### Model AI Baru\n- Gemini 3.x model support (Gemini 3.5, Gemini 3.1, Gemma 4)\n- New OpenRouter models: gemini-3.1-flash-lite, gpt-5.5, gpt-5.5-pro\n- Default model diubah ke gemini-3.1-flash-lite\n\n### Improvements\n- Improvement pada fitur-fitur tertentu\n\n### Bug Fixes\n- Hapus deprecated Groq models (llama-4-maverick, kimi-k2-instruct)\n- Hapus deprecated Gemini 2.0 variants di OpenRouter"
+  "release_date": "2026-06-13",
+  "changelog": "## MetaBoost v3.1.0\n\n### Fixed\n- Perbaikan bug-bug kecil"
 }
